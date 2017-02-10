@@ -8,7 +8,7 @@ $languageStrings = [
 	//FIELDS
 	'LBL_SUBJECT' => 'Sujet',
 	'LBL_NUMBER' => 'Nombre',
-	'FL_STATUS' => 'Status',
+	'FL_STATUS' => 'État',
 	'FL_INTERVAL' => 'Délais de rappel',
 	// Picklist values
 	'PLL_DRAFT' => 'Brouillon',
